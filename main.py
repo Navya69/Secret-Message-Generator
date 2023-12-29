@@ -1,8 +1,7 @@
 # import tkinter module
 from tkinter import *
 
-# import other necessery modules
-import random
+
 
 # Vigenère cipher for encryption and decryption
 import base64
