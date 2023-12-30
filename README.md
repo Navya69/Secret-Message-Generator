@@ -27,7 +27,7 @@ This is a simple GUI application for encrypting and decrypting messages using th
 
 3. **Navigate to the Project Directory:**
    ```bash
-   cd your-repository
+   cd Secret-Message-Generator
    ```
 
 4. **Run the Application:**
@@ -48,9 +48,11 @@ This is a simple GUI application for encrypting and decrypting messages using th
 
 ## Screenshots
 
-Include screenshots of the application to provide a visual representation of the interface.
+
 ![image](https://github.com/Navya69/Secret-Message-Generator/assets/94288722/0b9b33f4-afa0-49a2-b132-c364e7c726d4)
+
 ![image](https://github.com/Navya69/Secret-Message-Generator/assets/94288722/10b2b2c4-b009-4de9-9a6d-35e6c604c069)
+
 ![image](https://github.com/Navya69/Secret-Message-Generator/assets/94288722/773addd6-f6c6-4f61-987e-cf1cc61dfca6)
 
 
