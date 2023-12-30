@@ -19,6 +19,9 @@ This is a simple GUI application for encrypting and decrypting messages using th
 1. **Prerequisites:**
    - Python installed on your system.
    - Tkinter library.
+     ```bash
+     pip install tkinter
+     ```
 
 2. **Clone the Repository:**
    ```bash
